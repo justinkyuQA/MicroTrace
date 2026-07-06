@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+microtrace/__init__.py
+microtrace/__main__.py
+microtrace/cli.py
+microtrace/core.py
+microtrace.egg-info/PKG-INFO
+microtrace.egg-info/SOURCES.txt
+microtrace.egg-info/dependency_links.txt
+microtrace.egg-info/entry_points.txt
+microtrace.egg-info/top_level.txt
